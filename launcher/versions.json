@@ -1,46 +1,17 @@
 {
-  "dev": [
-    "0.0.0.0.0"
-  ],
-  "alpha": [
-  ],
-    "beta": [
-  ],
-  "links": {
-    "dev": {
-      "0.0.0.0.0": {
-        "zip": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷI´ȿɄʦȃȻêÎȃȷ˦ɃȹIÏÁɀȳˤɅȭ«ÒȷȾʯȷȰW®",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
-      },
-      "0.0.0.0.1": {
-        "zip": "",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
-      }
-    },
-    "beta": {
-      "0.0.0.0.0": {
-        "zip": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIâÃȰȂʣȿȧ°ÌȽɀˑȴǷIðËǿȆ˒ȸȸ{­Ǿǿʞɍȭ¼¼Ⱥȋʡ",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
-      },
-      "0.0.0.0.1": {
-        "zip": "",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
-      }
-    },
-    "alpha": {
-      "0.0.0.0.0": {
-        "zip": "",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
-      },
-      "0.0.0.0.1": {
-        "zip": "",
-        "name": "Riretrim.exe",
-        "type": "riretrim"
+  "builds": {
+    "windows": {
+      "games": {
+        "riretrim": {
+          "dev": {
+            "0.0.0.0": {
+              "url": "Ȭ\u008EñÈɁȈʟȂȻ\u0091ô\u0086Ȳɀ˟ɃȦ\u0089õ\u0086ȱȽ˝ȂȷI´\u0090ȿɄʦȃȻ\u0084êÎȃȷ˦ɃȹIÏÁɀȳˤɅȭ\u0087«ÒȷȾʯȷȰW®",
+              "name": "Riretrim.exe"
+            }
+          },
+          "beta": {},
+          "alpha": {}
+        }
       }
     }
   }
