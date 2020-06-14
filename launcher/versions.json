@@ -4,33 +4,45 @@
       "games": {
         "riretrim": {
           "dev": {
+            "0.0.0.0.7": {
+              "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIµÐɀȴʣɂȼ®Æȶȳ˕ȌȩIïÁɀȳˤɅȭÜǾǾʠȊǲæÈȍȲ˜Ȑǵ",
+              "name": "Riretrim.exe",
+              "changelog": "Update 0.0.0.0.7:\n- Basic Modding\n- Updated Shop\n- New Generation / Loading / Saving System\n- Autosave\n- Bug fixes\n- UI Changes\n- New Enemy: Egg\n- Updated Italian Language\n- Updated Norwegian Language\n- Minimap now shows correct Planet Amount\n- Minimap now shows correct Moon Amount\n- Fixed Planet Type Distance (No more icy planets near sun ;))\n- New Map Generation Loading Bars\n- Titlescreen Updated\n- New Ship: Drill\n- New ShipWreck: Drill\n- Added Energy\n- Adjusted Ship Lightning"
+            },
             "0.0.0.0.6": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIÞÏȼȀ˟Ȼȹ}³¼ȺɈ˒ȻȯIïÁɀȳˤɅȭÜǾǾʠȉȣæÆǼɈ˙Ƀȃ~éǿ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.5": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIëÅȽǿʩɋȷìÄȺɀʠȽȾIïÁɀȳˤɅȭÜǾǾʠȃǹyôÁȼǼ˪ȼȴYáÄȋǿ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.4": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIïÀȲȂ˚ȊȺRëȵɂˠȆǽIïÁɀȳˤɅȭ­ǾǾʤȁȾíȲȺʭȄ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.3": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIóǾȹ˜Ⱥȥã¼ɁȶˣȅǽIïÁɀȳˤɅȭ­ǾǾʣȁȾíȲȺʭȄ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.2": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷI÷ÉɃɈ˨ɊǹNìÆǾȂ˘ȾǹIïÁɀȳˤɅȭ­ǾǾʢȁȾíȲȺʭȄ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.1": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷI¶ÂȄȽ˧Ɇǹ~ë»ȁȵ˜ȺǻIïÁɀȳˤɅȭ­ǾǾʡȁȾíȲȺʭȄ",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             },
             "0.0.0.0.0": {
               "url": "Ȭ\u008EñÈɁȈʟȂȻ\u0091ô\u0086Ȳɀ˟ɃȦ\u0089õ\u0086ȱȽ˝ȂȷI´\u0090ȿɄʦȃȻ\u0084êÎȃȷ˦ɃȹIÏÁɀȳˤɅȭ\u0087«ÒȷȾʯȷȰW®",
-              "name": "Riretrim.exe"
+              "name": "Riretrim.exe",
+              "changelog": ""
             } 
           },
           "beta": {},
@@ -40,7 +52,8 @@
           "dev": {
             "last_jayson_build": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIòȰǾ˒Ⱥǹ{êÃȼȱʤȻȨIðÌȯɀˣɃȩáȆǼ˪ȼȴYáÄȋǿ",
-              "name": "StarSpeed18.exe"
+              "name": "StarSpeed18.exe",
+              "changelog": ""
             } 
           },
           "beta": {},
@@ -54,7 +67,8 @@
           "dev": {
             "0.0.0.0.0": {
               "url": "ȬñÈɁȈʟȂȻôȲɀ˟ɃȦõȱȽ˝ȂȷIëȺȴˤȺǼQäȻȻˤȼǼIïÁɀȳˤɅȭê¹ȱȽˣȁȾíȲȺʭȄ",
-              "name": "RireTrimBuild.app"
+              "name": "RireTrimBuild.app",
+              "changelog": ""
             }
           },
           "beta": {},
