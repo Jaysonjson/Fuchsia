@@ -1,4 +1,5 @@
 {
+  "latest": "0.0.0.0.7",
   "builds": {
     "windows": {
       "games": {
