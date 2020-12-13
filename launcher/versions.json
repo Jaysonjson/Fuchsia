@@ -5,6 +5,11 @@
       "games": {
         "riretrim": {
           "dev": {
+              "0.0.0.0.8": {
+              "url": "https://www.dropbox.com/s/k8g9pbnxzsxgmnz/riretrim00008.zip?dl=1",
+              "name": "Riretrim.exe",
+              "changelog": ""
+            },
             "0.0.0.0.7": {
               "url": "https://www.dropbox.com/s/8xrf3oxt1nhee9e/riretrim_00007.zip?dl=1",
               "name": "Riretrim.exe",
