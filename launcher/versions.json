@@ -59,6 +59,11 @@
           "beta": {},
           "alpha": {}
         },
+        "clickergame": {
+          "dev": {},
+          "beta": {},
+          "alpha": {}
+        },
         "starspeed18": {
           "dev": {
             "last_jayson_build": {
